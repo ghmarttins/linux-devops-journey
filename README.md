@@ -35,4 +35,4 @@ Desenvolver habilidades práticas em:
 
 ## 📈 Evolução
 
-Este repositório será atualizado continuamente com novos desafios e scripts, simulando simulando situações reais de automação e infraestrutura.
+Este repositório será atualizado continuamente com novos desafios e scripts, simulando situações reais de automação e infraestrutura.
