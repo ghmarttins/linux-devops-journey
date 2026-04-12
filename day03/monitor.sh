@@ -1,23 +1,19 @@
-#!bin/bash
+#!/bin/bash
 
 echo "===== MONITORAMENTO DO SISTEMA ====="
 echo ""
 
 echo "Uso de CPU:"
-top -bn1 | grep "CPu(s)"
+top -bn1 | grep "Cpu(s)"
 
-echo""
-echo "Uso de Memória"
+echo ""
+echo "Uso de Memoria:"
 free -h
 
 echo ""
-echo "Uso de Disco"
-
+echo "Uso de Disco:"
 df -h
 
 echo ""
 echo "Tempo Ligado:"
 uptime
-
-
-
