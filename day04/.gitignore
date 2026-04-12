@@ -1,2 +1,2 @@
 .env
-log_servicos.txt
+*.log
