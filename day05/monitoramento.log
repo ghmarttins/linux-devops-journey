@@ -1,0 +1,17 @@
+===== MONITORAMENTO Tue Apr 14 07:52:51 PM -03 2026 =====
+Uso de CPU:
+%Cpu(s):  0.0 us, 10.5 sy,  0.0 ni, 89.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+Uso de Memória:
+               total        used        free      shared  buff/cache   available
+Mem:           5.7Gi       1.7Gi       1.2Gi        50Mi       3.0Gi       4.0Gi
+Swap:          4.0Gi          0B       4.0Gi
+Uso de Disco:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           586M  1.7M  585M   1% /run
+/dev/sda2        60G   20G   37G  36% /
+tmpfs           2.9G     0  2.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+Desktop         476G  278G  199G  59% /media/sf_Desktop
+tmpfs           586M  120K  586M   1% /run/user/1000
+/dev/sr0         51M   51M     0 100% /media/gustavo/VBox_GAs_7.2.4
+==============================
